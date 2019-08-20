@@ -5,7 +5,12 @@
   "repository": "https://github.com/kongga12/HandsOn_Koa_Node.git",
   "author": "Cheol Ho Choo <choo.cheolho@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/bin/server"
+  },
   "dependencies": {
+    "config": "^3.2.2",
+    "dotenv": "^8.1.0",
     "koa": "^2.8.1"
   }
 }
