@@ -11,6 +11,16 @@
   "dependencies": {
     "config": "^3.2.2",
     "dotenv": "^8.1.0",
-    "koa": "^2.8.1"
+    "knex": "^0.19.3",
+    "koa": "^2.8.1",
+    "mississippi": "^4.0.0",
+    "pino": "^5.13.2",
+    "pino-colada": "^1.4.5",
+    "sqlite3": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "faker": "^4.1.0",
+    "nodemon": "^1.19.2"
   }
 }
