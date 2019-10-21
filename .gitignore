@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/node,macos,windows,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,macos,windows,visualstudiocode
 
+### Custom ###
+data/
+
 ### macOS ###
 # General
 .DS_Store
@@ -158,3 +161,11 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,macos,windows,visualstudiocode
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
